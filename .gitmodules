@@ -1,0 +1,12 @@
+[submodule "readium-css"]
+	path = readium-css
+	url = https://github.com/readium/readium-css.git
+[submodule "r2-navigator-kotlin"]
+	path = r2-navigator-kotlin
+	url = https://github.com/readium/r2-navigator-kotlin.git
+[submodule "r2-streamer-kotlin"]
+	path = r2-streamer-kotlin
+	url = https://github.com/readium/r2-streamer-kotlin.git
+[submodule "r2-shared-kotlin"]
+	path = r2-shared-kotlin
+	url = https://github.com/readium/r2-shared-kotlin.git
